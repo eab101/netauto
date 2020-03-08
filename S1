@@ -1,2 +1,4 @@
 print("Hello world!!")
-print("You really are a brave new world.")
+########################
+for i in range(3):
+    print("You are awesome!")
